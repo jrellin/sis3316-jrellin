@@ -1,7 +1,9 @@
 
 # Ethernet Data Aquisition Code for SIS3316 250MHz Digitizers 
 
+This is the public open source version of code to run and read waveforms from Struct SIS3316 16 Channel 250 MHz Digitiers in serial, parallel, or synchronized operation
 (Work in Progress) SimpleSetup.docx goes over the basic setup in more detail
+To Do: Cleanup and Turn into Python Package
 
 ## Current Requirements
 
