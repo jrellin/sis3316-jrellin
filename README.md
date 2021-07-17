@@ -4,6 +4,7 @@
 This is the public open source version of code to run, read, and parse waveforms from Struct SIS3316 16 Channel 250 MHz Digitiers in serial, parallel, or synchronized operation in real binary or hdf5 parsed files. Simple plotly GUI
 
 (Work in Progress) SimpleSetup.docx goes over the basic setup in more detail
+
 code_background.pptx under manuals goes over code base architecture.
 
 To Do: Cleanup and Turn into Python Package
